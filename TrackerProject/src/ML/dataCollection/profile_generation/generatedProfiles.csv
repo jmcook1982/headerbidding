@@ -1,0 +1,10 @@
+volume,intent,category,alphabet,yandex,oracle,appnexus,verizon,baidu,twitter,facebook,double_verify,adobe_systems,criteo,microsoft,quantcast,pubmatic,automattic,sovrn,integral_ad_science,comscore,exoclick,alibaba,hash
+8,NO_INTENT,Reference,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,d638a72862ff1487015d20fe8f9b56a34e379506bfd849f3cfc0a9c7eaed4864
+6,INTENT,Kids_and_Teens,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,c00bb08761c433e446c0c0b90d42a600d32b288736300ec9bace10d185f67ad5
+3,INTENT,Arts,1,1,0,0,1,1,1,0,0,1,0,1,1,1,1,0,1,1,1,1,4693be168e9e299fed337c0d68957ffbba07f69ed152a588f2460091d1e712cf
+8,NO_INTENT,Science,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,c862c784179ec646323492669dedf5dc236029d695c3cf6d0ec198fe5426b138
+3,INTENT,Society,0,1,1,0,0,0,1,1,0,0,0,1,0,0,0,0,1,1,0,1,f6cb5475c878c972b81dbac34b73764ea36f43eda2a74b2ca3e467a4791afd24
+6,NO_INTENT,Computers,0,0,0,1,1,0,1,0,1,0,1,0,0,1,0,0,0,1,1,1,fa98e163b7aa4ccbe1f3ac7f2b50088e71c42f1ceb10784167be30ae18163ff0
+2,NO_INTENT,Computers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,a23fec79e2c0da1173f218ecfb3f0d81a6d8a7e0fb0812e4cee55bd9728f4af2
+4,INTENT,Kids_and_Teens,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0160e027e3d2d817664f1a511315e8d76d8a9347194a7141efe54219065ca92f
+4,NO_INTENT,Computers,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,ef3ad74adb471d7373da92723dbdcecf86cf32e7ad7eddd6198889f751f23139
